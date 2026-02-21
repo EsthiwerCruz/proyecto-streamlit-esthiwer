@@ -46,7 +46,7 @@ streamlit run app.py
 
 Repositorio GitHub: *https://github.com/EsthiwerCruz/proyecto-streamlit-esthiwer/tree/main*
 
-Aplicación en Streamlit Cloud: *(colocar enlace cuando publiques la app)*
+Aplicación en Streamlit Cloud: *https://proyecto-app-esthiwer-emukgf53eagx8hbx2pnzc6.streamlit.app/*
 
 ---
 
